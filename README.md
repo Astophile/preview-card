@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![images/Screenshot](images/Screenshot)
+![images/Screenshot.png](images/Screenshot)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
@@ -35,8 +35,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Astophile/preview-card.git)
-- Live Site URL: [Add live site URL here](https://github.com/Astophile/preview-card.git)
+- Solution URL: [https://github.com/Astophile/preview-card.git](https://github.com/Astophile/preview-card.git)
+- Live Site URL: [https://github.com/Astophile/preview-card.git](https://github.com/Astophile/preview-card.git)
 
 
 ### Built with
@@ -53,7 +53,7 @@ As for now, i am just beginner.And still in the need of more practice and effort
 
 ### Useful resources
 
-- [Resource ](https://www.w3schools.com/) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [https://www.w3schools.com/ ](https://www.w3schools.com/) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
