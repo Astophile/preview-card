@@ -35,7 +35,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [https://github.com/Astophile/preview-card.git](https://github.com/Astophile/preview-card.git)
+- Solution URL: [https://astophile.github.io/preview-card/](https://github.com/Astophile/preview-card.git)
 - Live Site URL: [https://github.com/Astophile/preview-card.git](https://github.com/Astophile/preview-card.git)
 
 
